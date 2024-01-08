@@ -8,5 +8,8 @@ Things I like:
 - Reading crime storys
 - Cook
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jeanette-schwarz-90169411a/)
-- 📧 [E-Mail](mailto:jeanne.schwarz1306@gmail.com)
+## Contact me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/jeanette-schwarz-90169411a/)
+
+📧 [E-Mail](mailto:jeanne.schwarz1306@gmail.com)
