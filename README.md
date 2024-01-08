@@ -8,6 +8,9 @@ Things I like:
 - Reading crime storys
 - Cook
 
+![IMG_2734klein](https://github.com/JeanetteSchwarz/JeanetteSchwarz/assets/155547505/b9143ca7-b390-4e40-93ba-7e6656546ee5)
+
+
 ## Contact me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jeanette-schwarz-90169411a/)
