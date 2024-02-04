@@ -6,6 +6,7 @@ I am a Journalist who want's to reach out for something **new**. Within the last
 - html
 - CSS
 - Javascript
+- React
   
 ## Things I like:
 
