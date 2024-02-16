@@ -7,6 +7,7 @@ I am a Journalist who want's to reach out for something **new**. Within the last
 - CSS
 - Javascript
 - React
+- Next.js
   
 ## Things I like:
 
