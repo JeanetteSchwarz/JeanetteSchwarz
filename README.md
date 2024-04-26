@@ -1,14 +1,17 @@
 # Welcome to my Github 🖖
-I am a Journalist who want's to reach out for something **new**. Within the last year I decided to leave journalism for a while and try to become a developer. I <del>joined</del> graduated from the _neuefische_ Web-Developement-Bootcamp in <del>January</del> April 2024 and I am really looking forward to what comes next. 👩🏻‍💻
+I am a Journalist who want's to reach out for something **new**. Within the last year I decided to leave journalism and try to become a developer. I <del>joined</del> graduated from the _neuefische_ Web-Developement-Bootcamp in <del>January</del> April 2024 and I am really looking forward to what comes next. 👩🏻‍💻
 
-## Currently learning:
+## TechStack
 
 - Javascript
+- HTML
+- CSS
 - React
 - Next.js
 - node.js
 - MongoDB
 - Typescript
+- Angular
   
 ## Things I like:
 
@@ -16,6 +19,7 @@ I am a Journalist who want's to reach out for something **new**. Within the last
 - Yoga
 - Travel 
 - Reading crime storys
+- Learning new things
 - Cook
 - Photography
 
